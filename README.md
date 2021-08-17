@@ -22,11 +22,11 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/wenblack/wenblack/) 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/wenblack/wenblack/)
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= (https://www.linkedin.com/in/wender-jose-santos-4b1473217))] 
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= (https://www.linkedin.com/in/wender-jose-santos-4b1473217))
 
 ![Wender's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenblack&show_icons=true&theme=dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenblack&layout=compact&theme=dark)]
 
