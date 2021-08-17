@@ -10,7 +10,7 @@
 
  
 
-📱: I'm Mobile Developer!
+📱 I'm Mobile Developer!
 
 :house_with_garden: I’m from Brazil.
 
