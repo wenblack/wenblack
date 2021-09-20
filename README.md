@@ -28,7 +28,10 @@
 
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= (https://www.linkedin.com/in/wender-jose-santos-4b1473217))
 
+![Site](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white&link= (https://wenblack.github.io/))
+
 ![Wender's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenblack&show_icons=true&theme=dark)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenblack&layout=compact&theme=dark)
+
 
 
 - Thanks for visiting.
