@@ -22,13 +22,13 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/wenblack/wenblack/)
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")     <https://github.com/wenblack>
 
 
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white "LinkedIn") <https://www.linkedin.com/in/wender-jose-santos-4b1473217/>
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= (https://www.linkedin.com/in/wender-jose-santos-4b1473217))
-
-![Site](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white&link= (https://wenblack.github.io/))
+![Site](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white&link= (https://wenblack.github.io/)) wenblack012@gmail.com
 
 ![Wender's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenblack&show_icons=true&theme=dark)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenblack&layout=compact&theme=dark)
 
