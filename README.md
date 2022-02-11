@@ -10,11 +10,11 @@
 
  
 
-📱 I'm Mobile Developer!
+📱 I'm Front End Developer!
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning React Native.
+:books: I’m currently learning React JS.
 
 :outbox_tray: 2021 Goals: create news projects and find a new job.
 
