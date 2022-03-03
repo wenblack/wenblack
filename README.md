@@ -16,7 +16,7 @@
 
 :books: I’m currently learning React JS.
 
-:outbox_tray: 2021 Goals: create news projects and find a new job.
+:outbox_tray: 2022 Goals: create news projects and find a new job.
 
  
 
