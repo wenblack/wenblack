@@ -52,8 +52,8 @@
 <!-- github workflow  -->
 <div>
  <a href="https://www.github.com/wenblack">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wenblack&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenblack&layout=compact&langs_count=16&theme=dark&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wenblack&&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wenblack&layout=compact&langs_count=16&theme=dark&count_private=false"/>
 </div>
  
 
