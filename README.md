@@ -1,65 +1,41 @@
-### Hi there ! 👋
 
-----------------------------------------------------------------------------
+### Hi 👋, I'm Wender Barbosa
+---
 
-# WELCOME!
+### I'm a web developer from São Paulo, Brazil
 
- 
-
-## I'm Wender!
-
- 
-
-📱 <strong>I'm Front End Developer!
-
-:house_with_garden: I’m from Brazil.
-
-:books: I’m currently learning React JS.
-
-:outbox_tray: 2022 Goals: create news projects and find a new job.
+<img align="right" src="https://dialtm.in/assets/images/solution/webcasting/wc1.png" width="330px" height="190px" alt="image">
+</p>
 
 
+# 💻 Skills : 
 
- ----------------------------------------------------------------------------
-
-## ABOUT ME
-<div>
- <a href="https://api.whatsapp.com/send?phone=5511992566539&text=Ol%C3%A1!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
- <a href="https://www.instagram.com/wen_barbosa"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
- <a href="mailto:wenblack012@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- <a href="https://www.linkedin.com/in/wender-jose-santos-4b1473217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</div>
-
-----------------------------------------------------------------------------
-
-
-## MY SKILLS
-<div>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+![html5](https://img.shields.io/badge/HTML-ec0909?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-</div>
 
-##
-----------------------------------------------------------------------------------
+-------------------------------------------------------
 
 ## ACTIVITY
 <!-- github workflow  -->
-<div>
+<div >
  <a href="https://www.github.com/wenblack">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wenblack&&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wenblack&layout=compact&langs_count=16&theme=dark&count_private=false"/>
-</div>
- 
 
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=wenblack&theme=dark&hide_border=false)
  ![github contribution grid snake animation](https://raw.githubusercontent.com/devjosecarlosteles/devjosecarlosteles/output/github-contribution-grid-snake.svg)
+
+</p>
+</div>
+
 </a>
 
-- Thanks for visiting.
 
-- Enjoy it!! 😄
+
